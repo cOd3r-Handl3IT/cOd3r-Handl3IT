@@ -10,6 +10,8 @@
 [LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br />
 [CodePen Profile](codepen.io/Handl3IT) <br />
 [Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT) <br />
+[Alien Attack Web Game] (https://ephemeral-donut-4b94a5.netlify.app/) <br />
+[Loan Simple Interest Web Calculator] (https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) <br />
 
 <!--
 **cOd3r-Handl3IT/cOd3r-Handl3IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
