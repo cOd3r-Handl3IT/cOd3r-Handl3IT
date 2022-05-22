@@ -6,9 +6,10 @@
 - 😄 I’m looking to help new members of the coding community, or those struggling with development, with their struggles and reach new plateaus within the dev-ops vertical.
 - ⚡ Fun fact: I've met a lot of famous people including Rachel Hunter, Rod Stewart, Dave Coulier, John Stamos, Sinbad, and Charlie Sheen!
 
-Link to [LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/)
-Link to [CodePen Profile](codepen.io/Handl3IT)
-Link to [Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT)
+### Check out my: <br />
+[LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br />
+[CodePen Profile](codepen.io/Handl3IT) <br />
+[Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT) <br />
 
 <!--
 **cOd3r-Handl3IT/cOd3r-Handl3IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
