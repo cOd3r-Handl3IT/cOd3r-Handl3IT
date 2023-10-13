@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on accelerating my full-stack development career!
-- 🌱 I’m currently learning Java and other OOP languages, as well as HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning Java, C Sharp, and Python, as well as HTML, CSS, and JavaScript.
 - 👯 I’m looking to collaborate on business, e-commerce, web, and game projects.
 - 😄 I’m looking to help new members of the coding community, or those struggling with development, with their struggles and reach new plateaus within the dev-ops vertical.
 - ⚡ Fun fact: I've met a lot of famous people including Rachel Hunter, Rod Stewart, Dave Coulier, John Stamos, Sinbad, and Charlie Sheen!
