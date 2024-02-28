@@ -10,7 +10,7 @@
 [LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br/>
 [CodePen Profile](https://codepen.io/Handl3IT) <br/>
 [Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT) <br/>
-[Alien Attack Web Game](https://ephemeral-donut-4b94a5.netlify.app/) <br/>
+[Alien Attack Web Game](https://alienattackweb.netlify.app/) <br/>
 [Loan Simple Interest Web Calculator](https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) <br/>
 
 <!--
