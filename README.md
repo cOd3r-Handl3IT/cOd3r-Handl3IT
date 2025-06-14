@@ -14,11 +14,6 @@
 [Loan Simple Interest Web Calculator](https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="3D Developer Working" height="250"/>
-</p>
-
-
-
 ### 🛠️ My Repertoire:
 
  #### 👨‍💻 Programming Languages
@@ -27,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C#-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
@@ -45,5 +40,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-
---
+</p>
