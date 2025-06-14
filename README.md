@@ -13,12 +13,11 @@
 [Alien Attack Web Game](https://alienattackweb.netlify.app/) <br/>
 [Loan Simple Interest Web Calculator](https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) <br/>
 
-<p align="center">
 ### 🛠️ My Repertoire:
 
  #### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=python&logoColor=red)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=python&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=green)
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -40,4 +39,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-</p>
+--
