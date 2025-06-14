@@ -6,7 +6,7 @@
 - 😄 I’m looking to help new members of the coding community, or those struggling with development, with their struggles and reach new plateaus within the dev-ops vertical.
 - ⚡ Fun fact: I've met a lot of famous people including Rachel Hunter, Rod Stewart, Dave Coulier, John Stamos, Sinbad, and Charlie Sheen!
 
-![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
+![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 ### Check out my: <br/>
 [LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br/>
 [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/robertemarchetti/) <br/>
