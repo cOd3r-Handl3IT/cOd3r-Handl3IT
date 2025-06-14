@@ -6,14 +6,14 @@
 - 😄 I’m looking to help new members of the coding community, or those struggling with development, with their struggles and reach new plateaus within the dev-ops vertical.
 - ⚡ Fun fact: I've met a lot of famous people including Rachel Hunter, Rod Stewart, Dave Coulier, John Stamos, Sinbad, and Charlie Sheen!
 
-![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+
 ### Check out my: <br/>
-[LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br/>
-[Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/robertemarchetti/) <br/>
-[CodePen Profile](https://codepen.io/Handl3IT) <br/>
-[Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT) <br/>
-[Alien Attack Web Game](https://alienattackweb.netlify.app/) <br/>
-[Loan Simple Interest Web Calculator](https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) <br/>
+[LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br/> ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+[Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/robertemarchetti/) <br/> ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+[CodePen Profile](https://codepen.io/Handl3IT) <br/> ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+[Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT) <br/> ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+[Alien Attack Web Game](https://alienattackweb.netlify.app/) <br/> ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+[Loan Simple Interest Web Calculator](https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) <br/> ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 
 
 🛠️ My Repertoire:
@@ -29,8 +29,6 @@
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-
 #### ☁️ Cloud Platforms, Data & Databases
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
@@ -40,8 +38,6 @@
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
 ![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)
-
-
 #### 🧰 Tools & Frameworks
 ![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
@@ -61,23 +57,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-
-#### _ Artificial Intelligence
+#### 🤖 Artificial Intelligence
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
 ![Copilot](https://img.shields.io/badge/Copilot-000?logo=copilot&logoColor=fff)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
-
-
-#### _ Documentation & Design
+#### 📝 Documentation & Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 ![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)
 ![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)
 ![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-8CA1AF?logo=readthedocs&logoColor=fff)
-
-
-#### _ Education & Learning Platforms
+#### 🎓 Education & Learning Platforms
 ![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)
