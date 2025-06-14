@@ -8,12 +8,12 @@
 
 
 ### Check out my: <br/>
-[LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) <br/>
-[Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/robertemarchetti/) ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) <br/>
-[CodePen Profile](https://codepen.io/Handl3IT) ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) <br/>
-[Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT) ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) <br/>
-[Alien Attack Web Game](https://alienattackweb.netlify.app/) ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) <br/>
-[Loan Simple Interest Web Calculator](https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) <br/>
+![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br/>
+![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/robertemarchetti/) <br/>
+![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [CodePen Profile](https://codepen.io/Handl3IT) <br/>
+![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT) <br/>
+![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [Alien Attack Web Game](https://alienattackweb.netlify.app/) <br/>
+![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [Loan Simple Interest Web Calculator](https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) <br/>
 
 
 #### 👨🏻‍💻 Programming Languages
