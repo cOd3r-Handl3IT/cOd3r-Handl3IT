@@ -7,38 +7,36 @@
 - ⚡ Fun fact: I've met a lot of famous people including Rachel Hunter, Rod Stewart, Dave Coulier, John Stamos, Sinbad, and Charlie Sheen!
 
 ### Check out my: <br/>
-[LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br/> ![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
-[CodePen Profile](https://codepen.io/Handl3IT) <br/> ![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
-[Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT) <br/> ![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
-[Alien Attack Web Game](https://alienattackweb.netlify.app/) <br/> ![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
-[Loan Simple Interest Web Calculator](https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) <br/> ![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
+[LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br/>
+![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
+[CodePen Profile](https://codepen.io/Handl3IT) <br/>
+![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
+[Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT) <br/>
+![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
+[Alien Attack Web Game](https://alienattackweb.netlify.app/) <br/>
+![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
+[Loan Simple Interest Web Calculator](https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) <br/>
+![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/
 
 🛠️ My Repertoire:
 
 #### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=python&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=green)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![C# Badge](https://img.shields.io/badge/C%23-C-Sharp-cyan?logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 
 #### ☁️ Cloud Platforms, Data & Databases
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
