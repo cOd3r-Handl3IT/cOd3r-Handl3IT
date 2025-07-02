@@ -6,8 +6,6 @@
 - 😄 I’m looking to help new members of the coding community, or those struggling with development, with their struggles and reach new plateaus within the dev-ops vertical.
 - ⚡ Fun fact: I've met a lot of famous people including Rachel Hunter, Rod Stewart, Dave Coulier, John Stamos, Sinbad, and Charlie Sheen!
 
-Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=robertemarchetti
-
 ### Check out my: <br/>
 ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br/>
 ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/robertemarchetti/) <br/>
@@ -15,7 +13,6 @@ Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase
 ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [Woz-U Profile](https://apprenticenow.exeterlms.com/user/cOd3r-Handl3IT) <br/>
 ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [Alien Attack Web Game](https://alienattackweb.netlify.app/) <br/>
 ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [Loan Simple Interest Web Calculator](https://cod3r-handl3it.github.io/vftvk-Simple-Interest-Calculator/) <br/>
-
 
 #### 👨🏻‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
@@ -74,3 +71,5 @@ Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase
 ![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?logo=pluralsight&logoColor=fff)
+
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=robertemarchetti
