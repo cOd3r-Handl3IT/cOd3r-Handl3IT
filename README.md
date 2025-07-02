@@ -6,6 +6,24 @@
 - 😄 I’m looking to help new members of the coding community, or those struggling with development, with their struggles and reach new plateaus within the dev-ops vertical.
 - ⚡ Fun fact: I've met a lot of famous people including Rachel Hunter, Rod Stewart, Dave Coulier, John Stamos, Sinbad, and Charlie Sheen!
 
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=robertemarchetti" target="_blank">Follow on LinkedIn</a>
 
 ### Check out my: <br/>
 ![Websites Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [LinkedIn Profile](https://www.linkedin.com/in/robertemarchetti/) <br/>
